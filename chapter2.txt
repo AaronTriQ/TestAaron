@@ -1,9 +1,6 @@
 Test2
 azdafazfazf
 
-<<<<<<< HEAD
 
 BOB
-=======
 AARON
->>>>>>> d780f8c92765e009aeb5a2589a0e03ca0a21b2e4
